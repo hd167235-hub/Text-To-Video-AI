@@ -13,6 +13,11 @@ Video dựng từ `kich-ban.md` (kịch bản gốc) và `cot-truyen-bo-sung.md`
 | Cấu trúc | 14 đoạn lời đọc · **18 cảnh** · 60 thẻ phụ đề chạy theo giọng |
 | Phụ đề | Chữ chạy ngay trong video + file `phu_de.srt` (60 dòng, có mốc thời gian) |
 | Nhạc nền | Pad âm thanh nhẹ tự tổng hợp, không lấn lời đọc |
+| Bản nhẹ | `../duong-ve-voi-me-chu-zalo.mp4` — 15 MB · 960×540 · cùng 4:30, để gửi Zalo |
+
+### Gửi qua Zalo
+
+55 MB vẫn gửi được (Zalo giới hạn theo dung lượng, điện thoại thường ~100 MB, Zalo PC/Web tới 1 GB), nhưng nên dùng **bản nhẹ 15 MB** cho nhanh. Quan trọng: trong Zalo chọn **Tài liệu / File** thay vì "Video" để Zalo không nén làm mờ chữ nhỏ. Nếu mạng yếu, dùng WiFi và giữ nguyên cửa sổ chat đến khi upload xong.
 
 ## Các yêu cầu đã xử lý
 
