@@ -10,3 +10,5 @@ bin/
 *.mp3
 rendered_video.mp4
 pipeline_checkpoint.json
+video_project/build/
+!video_project/audio/*.mp3
