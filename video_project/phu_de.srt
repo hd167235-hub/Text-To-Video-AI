@@ -1,159 +1,239 @@
 1
-00:00:01,500 --> 00:00:04,136
+00:00:01,200 --> 00:00:03,548
 Kính chào thầy cô và các bạn! Hôm nay
 
 2
-00:00:04,136 --> 00:00:10,033
+00:00:03,548 --> 00:00:08,801
 Nhóm 1 chúng em xin thuyết trình về tác phẩm Đường về với mẹ chữ của nhà văn Vi Hồng.
 
 3
-00:00:10,483 --> 00:00:17,265
+00:00:09,101 --> 00:00:15,149
 Em là Trần Tiến Minh, phụ trách mở đầu và kết bài. Em là Nguyễn Thị Hiền, giới thiệu tác phẩm.
 
 4
-00:00:17,265 --> 00:00:24,119
+00:00:15,149 --> 00:00:21,262
 Em là Vũ Tiến Đạt, phần nhân vật. Em là Trần Văn Phúc, phần tóm tắt truyện. Em là Vũ Ngọc Linh
 
 5
-00:00:24,119 --> 00:00:31,045
+00:00:21,262 --> 00:00:27,439
 phần nghệ thuật. Em là Vi Đức Hiệp, phần giá trị tác phẩm. Mời thầy cô và các bạn cùng theo dõi!
 
 6
-00:00:31,495 --> 00:00:38,307
+00:00:27,739 --> 00:00:33,810
 Đường về với mẹ chữ là truyện ngắn ký của nhà văn Vi Hồng, tên thật là Vi Văn Hồng
 
 7
-00:00:38,307 --> 00:00:45,448
+00:00:33,810 --> 00:00:40,173
 người dân tộc Tày, quê ở Cao Bằng, mất năm 1997 tại Thái Nguyên, quê hương của nhóm em.
 
 8
-00:00:45,448 --> 00:00:50,291
+00:00:40,173 --> 00:00:44,488
 Ông sinh năm 1936 và gắn bó suốt đời với văn hóa Tày, Nùng.
 
 9
-00:00:50,741 --> 00:00:55,269
+00:00:44,788 --> 00:00:48,826
 Tác phẩm ghi lại hành trình đi học thời kháng chiến. Trước năm 1949
 
 10
-00:00:55,269 --> 00:00:58,731
+00:00:48,826 --> 00:00:51,914
 miền núi Đông Bắc chỉ có một trường cấp II duy nhất
 
 11
-00:00:58,731 --> 00:01:03,791
+00:00:51,914 --> 00:00:56,427
 nay là trường Lương Ngọc Quyến ở Thái Nguyên, khi ấy phải học trong hang đá.
 
 12
-00:01:03,791 --> 00:01:06,787
+00:00:56,427 --> 00:00:59,100
 Học xong mẹ chữ ở Cao Bằng, muốn học cao hơn
 
 13
-00:01:06,787 --> 00:01:10,316
+00:00:59,100 --> 00:01:02,247
 các học sinh quyết tìm đường về với mẹ chữ ở xứ Thái.
 
 14
-00:01:10,766 --> 00:01:16,684
+00:01:02,547 --> 00:01:07,827
 Nhân vật chính là tác giả, tôi, một trong bảy học sinh người Tày, kể lại bằng ngôi thứ nhất.
 
 15
-00:01:16,684 --> 00:01:21,703
+00:01:07,827 --> 00:01:12,304
 Đi cùng là sáu người bạn trên chặng đường dài hơn hai trăm năm mươi ki lô mét.
 
 16
-00:01:21,703 --> 00:01:26,656
+00:01:12,304 --> 00:01:16,724
 Còn có cha mẹ và các già làng qua lời kể. Hình ảnh mẹ chữ được nhân cách hóa
 
 17
-00:01:26,656 --> 00:01:32,060
+00:01:16,724 --> 00:01:21,545
 người Tày gọi cái gì quý giá là mẻ, nghĩa là mẹ, như mẹ đá, mẹ nước. Nên trường học
 
 18
-00:01:32,060 --> 00:01:36,435
+00:01:21,545 --> 00:01:25,448
 người thầy được gọi là mẹ chữ, đích đến thiêng liêng của hành trình.
 
 19
-00:01:36,885 --> 00:01:40,619
-Cốt truyện: bảy học sinh Cao Bằng cuốc bộ về Thái Nguyên
+00:01:25,748 --> 00:01:30,714
+Thời kháng chiến chống Pháp, trường lớp thường phải di chuyển, có khi phải học trong hang đá.
 
 20
-00:01:40,619 --> 00:01:46,712
-đường dài hai trăm năm mươi đến ba trăm ki lô mét, toàn đi bộ qua đèo cao dốc thẳm, rừng rậm
+00:01:30,714 --> 00:01:32,155
+Học hết lớp bảy ở Cao Bằng
 
 21
-00:01:46,712 --> 00:01:51,494
-suối lũ. Chuyện cướp đường, chống hổ báo đối với họ đều là chuyện thường.
+00:01:32,155 --> 00:01:36,747
+bảy học sinh quyết định đến trường Lương Ngọc Quyến ở Thái Nguyên để học tiếp. Với họ
 
 22
-00:01:51,494 --> 00:01:55,949
-Đôi chân quen đi rừng cũng sưng vù, rượu ngâm ú tầu chỉ đỡ phần nào.
+00:01:36,747 --> 00:01:40,217
+trường học là nơi sinh ra chữ nghĩa, được gọi trìu mến là mẹ chữ.
 
 23
-00:01:56,399 --> 00:02:02,008
-Qua mường hổ báo, cha mẹ dặn phải phòng thủ; các già bảo gặp hổ thì lập tức hét lên.
+00:01:40,217 --> 00:01:44,916
+Cho con đi học xa là quyết định rất khó khăn với các gia đình nghèo, vì chi phí quá lớn.
 
 24
-00:02:02,008 --> 00:02:08,219
-Qua đèo Giàng, tác giả và bạn suýt chạm trán đàn rết hổ, nọc của chúng có thể gây chết người.
+00:01:45,216 --> 00:01:49,795
+Từ nhà đến trường dài hơn hai trăm năm mươi cây số, có bạn phải đi gần ba trăm.
 
 25
-00:02:08,219 --> 00:02:14,563
-Khi nản lòng, mấy anh em động viên nhau: cần cố gắng, cần gan dạ mới về được với mẻ sư, mẹ chữ.
+00:01:49,795 --> 00:01:53,504
+Cả nhóm đi bộ suốt chín ngày đêm, vượt núi, băng rừng, lội suối.
 
 26
-00:02:14,563 --> 00:02:18,970
-Ý thức học thêm một chữ là một phân vàng cho đời đã tiếp nghị lực
+00:01:53,504 --> 00:01:59,011
+Ban đêm gặp bản thì xin ngủ nhờ; không gặp nhà dân thì ngủ rừng hoặc nghỉ ở lều quán ven đường.
 
 27
-00:02:18,970 --> 00:02:23,044
-giúp họ vượt mọi gian nan để đến với Mẹ chữ Lương Ngọc Quyến.
+00:01:59,011 --> 00:02:01,793
+Chân sưng tấy, giày dép mang theo cũng rách hết.
 
 28
-00:02:23,494 --> 00:02:30,678
-Về nghệ thuật, tác phẩm nổi bật ở bốn điểm. Một, thể loại ký truyện ngắn, ngôi kể thứ nhất tôi
+00:02:02,093 --> 00:02:06,351
+Đến trường ôn thi, họ lại nhận tin hoãn thi một tháng. Không có đủ tiền ở lại
 
 29
-00:02:30,678 --> 00:02:36,729
-người trong cuộc, nên câu chuyện chân thực, giàu cảm xúc. Hai, ngôn ngữ mộc mạc
+00:02:06,351 --> 00:02:11,537
+cả nhóm phải đi bộ chín ngày trở về nhà. Nghỉ ở nhà chừng mười ngày, họ lại chuẩn bị lên đường.
 
 30
-00:02:36,729 --> 00:02:43,308
-đậm chất dân gian Tày, như mẹ đá, mẹ nước, lời các già làng, mỗi chữ một phân vàng. Ba
+00:02:11,537 --> 00:02:15,194
+Những chuyến đi vất vả ấy lặp lại nhiều lần trên con đường học tập.
 
 31
-00:02:43,308 --> 00:02:50,266
-chi tiết giàu sức gợi: rết hổ ở đèo Giàng, hổ đói theo sau xe đạp ban đêm, đôi chân sưng vù.
+00:02:15,494 --> 00:02:20,743
+Đáng nhớ là cuộc chạm trán với hổ trên đường đi học. Dù cha mẹ đã căn dặn cách đề phòng
 
 32
-00:02:50,266 --> 00:02:55,862
-Bốn, vừa kể vừa suy ngẫm, xen những triết lý sâu sắc về giá trị chữ nghĩa.
+00:02:20,743 --> 00:02:23,904
+khi đối diện con vật, một số người vẫn tái mặt vì sợ.
 
 33
-00:02:56,312 --> 00:02:59,834
-Về giá trị, tác phẩm ca ngợi tinh thần hiếu học, gan dạ
+00:02:23,904 --> 00:02:27,781
+Vi Hồng và bạn Phan Soong cố giữ bình tĩnh. Thấy hổ sắp tấn công
 
 34
-00:02:59,834 --> 00:03:05,556
-kiên trì của thanh niên dân tộc thiểu số thời chiến. Đồng thời nhắc nhở thế hệ trẻ hôm nay
+00:02:27,781 --> 00:02:33,507
+Vi Hồng hô hào mọi người cùng chống trả. Cả nhóm cùng dân bản reo hò, cầm dao, vác gậy tiến lên
 
 35
-00:03:05,556 --> 00:03:11,593
-cha ông xưa vất vả đến thế nào mới có một ít chữ trong bụng, nên ta phải trân trọng và chăm học.
+00:02:33,507 --> 00:02:37,980
+Hỏn cũng xông lên hàng đầu. Trước sự chống trả ấy, con hổ bỏ chạy vào rừng.
 
 36
-00:03:11,593 --> 00:03:16,750
-Tác phẩm còn thể hiện tình yêu quê hương, niềm tự hào về văn hóa dân tộc Việt Bắc
+00:02:38,280 --> 00:02:42,354
+Một lần đi xe đạp về quê cùng bạn Lư, Vi Hồng gặp rết hổ ở đèo Giàng.
 
 37
-00:03:16,750 --> 00:03:22,284
-và giá trị nhân văn sâu sắc: tri thức là tài sản quý giá nhất để con người trưởng thành.
+00:02:42,354 --> 00:02:45,838
+Qua lời kể của tác giả và chuyện truyền lại trong dân gian
 
 38
-00:03:22,734 --> 00:03:28,047
-Kính chào thầy cô và các bạn! Bài thuyết trình của Nhóm 1 chúng em đến đây là kết thúc.
+00:02:45,838 --> 00:02:50,266
+đây là loài vật có nọc độc nguy hiểm. Cuộc gặp khiến ông vô cùng hoảng hốt
 
 39
-00:03:28,047 --> 00:03:32,872
-Nhóm 1 xin chân thành cảm ơn thầy cô giáo đã xem bài thuyết trình của chúng em.
+00:02:50,266 --> 00:02:54,399
+qua khỏi chỗ nguy hiểm, ông vẫn chưa hết sợ trong suốt đoạn xuống đèo.
 
 40
-00:03:32,872 --> 00:03:37,270
+00:02:54,399 --> 00:02:57,588
+Đó là kỉ niệm khó quên về hiểm nguy trên đường đi học.
+
+41
+00:02:57,888 --> 00:03:02,985
+Đến được trường chưa có nghĩa là hết gian nan. Học trò xa quê thiếu ăn, thiếu áo ấm
+
+42
+00:03:02,985 --> 00:03:06,323
+ở trọ trong gian bếp thấp, vách thưa, gió lùa bốn phía.
+
+43
+00:03:06,323 --> 00:03:10,995
+Chiếc chõng tre vừa là giường ngủ vừa là bàn học; mùa đông đắp chăn cũ thủng
+
+44
+00:03:10,995 --> 00:03:15,850
+nằm sát nhau cho đỡ rét. Có lần Bế Tâm bị cảm nặng, phải nằm viện gần nửa tháng.
+
+45
+00:03:15,850 --> 00:03:19,733
+Dù vậy các bạn vẫn chăm chỉ học hành, và nhắc nhau: cần cố gắng
+
+46
+00:03:19,733 --> 00:03:24,406
+cần gan dạ mới về được với mẹ chữ. Học thêm một chữ là một phân vàng cho đời.
+
+47
+00:03:24,706 --> 00:03:30,487
+Về nghệ thuật, tác phẩm nổi bật ở bốn điểm. Một, thể loại ký truyện ngắn, ngôi kể thứ nhất tôi
+
+48
+00:03:30,487 --> 00:03:35,356
+người trong cuộc, nên câu chuyện chân thực, giàu cảm xúc. Hai, ngôn ngữ mộc mạc
+
+49
+00:03:35,356 --> 00:03:40,650
+đậm chất dân gian Tày, như mẹ đá, mẹ nước, lời các già làng, mỗi chữ một phân vàng. Ba
+
+50
+00:03:40,650 --> 00:03:44,667
+chi tiết giàu sức gợi: cuộc đối mặt với hổ dữ, rết hổ ở đèo Giàng
+
+51
+00:03:44,667 --> 00:03:48,987
+chiếc chõng tre vừa là giường vừa là bàn học. Bốn, vừa kể vừa suy ngẫm
+
+52
+00:03:48,987 --> 00:03:51,908
+xen những triết lý sâu sắc về giá trị chữ nghĩa.
+
+53
+00:03:52,208 --> 00:03:55,350
+Về giá trị, tác phẩm ca ngợi tinh thần hiếu học, gan dạ
+
+54
+00:03:55,350 --> 00:04:00,455
+kiên trì của thanh niên dân tộc thiểu số thời chiến. Đồng thời nhắc nhở thế hệ trẻ hôm nay
+
+55
+00:04:00,455 --> 00:04:05,841
+cha ông xưa vất vả đến thế nào mới có một ít chữ trong bụng, nên ta phải trân trọng và chăm học.
+
+56
+00:04:05,841 --> 00:04:10,441
+Tác phẩm còn thể hiện tình yêu quê hương, niềm tự hào về văn hóa dân tộc Việt Bắc
+
+57
+00:04:10,441 --> 00:04:15,378
+và giá trị nhân văn sâu sắc: tri thức là tài sản quý giá nhất để con người trưởng thành.
+
+58
+00:04:15,678 --> 00:04:20,409
+Kính chào thầy cô và các bạn! Bài thuyết trình của Nhóm 1 chúng em đến đây là kết thúc.
+
+59
+00:04:20,409 --> 00:04:24,705
+Nhóm 1 xin chân thành cảm ơn thầy cô giáo đã xem bài thuyết trình của chúng em.
+
+60
+00:04:24,705 --> 00:04:28,621
 Kính chúc thầy cô luôn mạnh khỏe, hạnh phúc và công tác tốt. Xin cảm ơn!
